@@ -45,12 +45,12 @@ This project helped enhance my skills in:
 - Enhance interactivity with more advanced slicers and filters.
 
 ## How to Use
-1. Open the Power BI file (`Pizza_Sales_Insights.pbix`) using Power BI Desktop.
+1. Open the Power BI file (`PizzaProject.pbix`) using Power BI Desktop.
 2. Explore the dashboard to gain insights into pizza sales data.
 3. Customize the visuals or formulas as needed for your specific use case.
 
 ## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out for collaboration opportunities.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kunalkawate/) or reach out for collaboration opportunities.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
